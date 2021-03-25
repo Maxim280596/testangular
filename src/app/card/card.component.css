@@ -1,0 +1,12 @@
+img {
+  max-width: 50%;
+  margin: 0 auto;
+
+}
+
+ .card {
+  display: flex;
+  flex-direction: column;
+
+}
+
